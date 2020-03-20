@@ -1,10 +1,10 @@
-pip install asgiref==3.2.5
+asgiref==3.2.5
 dj-database-url==0.5.0
-pip install Django==3.0.4
-pip install django-heroku==0.3.1
-pip install psycopg2==2.8.4
-
-pip install pytz==2019.3
-pip install sqlparse==0.3.1
-pip install whitenoise==5.0.1
-pip install gunicorn==20.0.4
+dj-static==0.0.6
+Django==3.0.4
+django-heroku==0.3.1
+psycopg2==2.8.4
+pytz==2019.3
+sqlparse==0.3.1
+static3==0.7.0
+whitenoise==5.0.1
