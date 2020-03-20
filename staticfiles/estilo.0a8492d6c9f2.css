@@ -1,0 +1,53 @@
+body{
+    margin: 0 auto;
+    width: 400px;
+    padding: 0;
+    border: 1px solid rgb(240, 6, 6);
+    border-radius: 1em;
+	
+}
+
+div {
+	padding: 10px;
+	border-radius: 1em;
+	background-color: grey;
+}
+
+
+a {
+	text-decoration: none;	
+}
+
+a:link, a:visited {
+	color: #f7b600;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#area-cabecalho a:link, #area-cabecalho a:visited {
+	color: #FFF;
+	padding: 8px 12px;
+	text-decoration: none;	
+
+}
+
+#area-cabecalho a:hover {
+	color: #f7b600;
+	background: #CCFFFF;
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: none;
+}
+
+h2 {
+	padding: 1em;
+
+}
+
+button{
+	border-radius: 10px;
+}
