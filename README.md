@@ -1,7 +1,7 @@
 # Create C-R-U-D aplication in Django and host on HEROKU
 
 <h2 align="center">
-    <img alt="BeTheHero" title="#delicinha" src="https://d4yt8xl9b7in.cloudfront.net/assets/home/logotype-heroku.png" width="200px" />
+    <img alt="BeTheHero" title="#delicinha" src="https://d4yt8xl9b7in.cloudfront.net/assets/home/logotype-heroku.png" />
 </h2>
 
 
