@@ -11,3 +11,8 @@ The Heroku CLI is used to manage Heroku apps from the command line. It is built 
 For more about Heroku see <https://www.heroku.com/home>
 
 To get started see <https://devcenter.heroku.com/start>
+
+
+![Heroku logo](https://github.com/luisERH/DJANGO-MVT/blob/master/home.PNG)
+
+![Heroku logo](https://github.com/luisERH/DJANGO-MVT/blob/master/novoItem.PNG)
